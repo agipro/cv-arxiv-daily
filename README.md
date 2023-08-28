@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-08-25**|**A Game of Bundle Adjustment -- Learning Efficient Convergence**|Amir Belder et.al.|[2308.13270v1](http://arxiv.org/abs/2308.13270v1)|null|
 |**2023-08-24**|**Joint Intrinsic and Extrinsic LiDAR-Camera Calibration in Targetless Environments Using Plane-Constrained Bundle Adjustment**|Liang Li et.al.|[2308.12629v1](http://arxiv.org/abs/2308.12629v1)|**[link](https://github.com/hku-mars/joint-lidar-camera-calib)**|
 |**2023-08-19**|**Enhancing State Estimation in Robots: A Data-Driven Approach with Differentiable Ensemble Kalman Filters**|Xiao Liu et.al.|[2308.09870v1](http://arxiv.org/abs/2308.09870v1)|**[link](https://github.com/ir-lab/denkf)**|
 |**2023-08-24**|**MIPS-Fusion: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction**|Yijie Tang et.al.|[2308.08741v2](http://arxiv.org/abs/2308.08741v2)|null|
