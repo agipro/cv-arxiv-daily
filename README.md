@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng et.al.|[2310.19188v1](http://arxiv.org/abs/2310.19188v1)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072v1](http://arxiv.org/abs/2310.15072v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
 |**2023-10-20**|**PACE: Human and Camera Motion Estimation from in-the-wild Videos**|Muhammed Kocabas et.al.|[2310.13768v1](http://arxiv.org/abs/2310.13768v1)|null|
@@ -637,6 +638,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**Identifiable Contrastive Learning with Automatic Feature Importance Discovery**|Qi Zhang et.al.|[2310.18904v1](http://arxiv.org/abs/2310.18904v1)|**[link](https://github.com/pku-ml/tri-factor-contrastive-learning)**|
 |**2023-10-27**|**LipSim: A Provably Robust Perceptual Similarity Metric**|Sara Ghazanfari et.al.|[2310.18274v1](http://arxiv.org/abs/2310.18274v1)|**[link](https://github.com/saraghazanfari/lipsim)**|
 |**2023-10-27**|**Split Covariance Intersection Filter Based Visual Localization With Accurate AprilTag Map For Warehouse Robot Navigation**|Susu Fang et.al.|[2310.17879v1](http://arxiv.org/abs/2310.17879v1)|null|
 |**2023-10-25**|**FoundLoc: Vision-based Onboard Aerial Localization in the Wild**|Yao He et.al.|[2310.16299v1](http://arxiv.org/abs/2310.16299v1)|null|
@@ -1564,6 +1566,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**TiV-NeRF: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields**|Chengyao Duan et.al.|[2310.18917v1](http://arxiv.org/abs/2310.18917v1)|null|
+|**2023-10-28**|**INCODE: Implicit Neural Conditioning with Prior Knowledge Embeddings**|Amirhossein Kazerouni et.al.|[2310.18846v1](http://arxiv.org/abs/2310.18846v1)|null|
 |**2023-10-27**|**ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image**|Kyle Sargent et.al.|[2310.17994v1](http://arxiv.org/abs/2310.17994v1)|null|
 |**2023-10-27**|**Reconstructive Latent-Space Neural Radiance Fields for Efficient 3D Scene Representations**|Tristan Aumentado-Armstrong et.al.|[2310.17880v1](http://arxiv.org/abs/2310.17880v1)|null|
 |**2023-10-27**|**HyperFields: Towards Zero-Shot Generation of NeRFs from Text**|Sudarshan Babu et.al.|[2310.17075v2](http://arxiv.org/abs/2310.17075v2)|null|
