@@ -43,7 +43,7 @@ layout: default
 |**2023-11-14**|**CP-SLAM: Collaborative Neural Point-based SLAM System**|Jiarui Hu et.al.|[2311.08013v1](http://arxiv.org/abs/2311.08013v1)|null|
 |**2023-11-10**|**Dense Visual Odometry Using Genetic Algorithm**|Slimane Djema et.al.|[2311.06149v1](http://arxiv.org/abs/2311.06149v1)|null|
 |**2023-11-07**|**Inertial Guided Uncertainty Estimation of Feature Correspondence in Visual-Inertial Odometry/SLAM**|Seongwook Yoon et.al.|[2311.03722v1](http://arxiv.org/abs/2311.03722v1)|null|
-|**2023-11-02**|**Joint 3D Shape and Motion Estimation from Rolling Shutter Light-Field Images**|Hermes McGriff et.al.|[2311.01292v1](http://arxiv.org/abs/2311.01292v1)|null|
+|**2023-11-02**|**Joint 3D Shape and Motion Estimation from Rolling Shutter Light-Field Images**|Hermes McGriff et.al.|[2311.01292v1](http://arxiv.org/abs/2311.01292v1)|**[link](https://github.com/icb-vision-ai/rslf)**|
 |**2023-10-29**|**3DMiner: Discovering Shapes from Large-Scale Unannotated Image Datasets**|Ta-Ying Cheng et.al.|[2310.19188v1](http://arxiv.org/abs/2310.19188v1)|null|
 |**2023-10-23**|**RD-VIO: Robust Visual-Inertial Odometry for Mobile Augmented Reality in Dynamic Environments**|Jinyu Li et.al.|[2310.15072v1](http://arxiv.org/abs/2310.15072v1)|null|
 |**2023-10-23**|**Converting Depth Images and Point Clouds for Feature-based Pose Estimation**|Robert Lösch et.al.|[2310.14924v1](http://arxiv.org/abs/2310.14924v1)|**[link](https://github.com/rlsch/depth-conversions)**|
@@ -992,7 +992,7 @@ layout: default
 |**2023-03-01**|**A Complementarity-Based Switch-Fuse System for Improved Visual Place Recognition**|Maria Waheed et.al.|[2303.00714v1](http://arxiv.org/abs/2303.00714v1)|null|
 |**2023-03-01**|**ORCHNet: A Robust Global Feature Aggregation approach for 3D LiDAR-based Place recognition in Orchards**|T. Barros et.al.|[2303.00477v1](http://arxiv.org/abs/2303.00477v1)|**[link](https://github.com/cybonic/orchnet)**|
 |**2023-03-03**|**Renderable Neural Radiance Map for Visual Navigation**|Obin Kwon et.al.|[2303.00304v2](http://arxiv.org/abs/2303.00304v2)|null|
-|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|null|
+|**2023-03-01**|**Region Prediction for Efficient Robot Localization on Large Maps**|Matteo Scucchia et.al.|[2303.00295v1](http://arxiv.org/abs/2303.00295v1)|**[link](https://github.com/mi-biolab/region-learner)**|
 |**2023-02-28**|**OEKG: The Open Event Knowledge Graph**|Simon Gottschalk et.al.|[2302.14688v1](http://arxiv.org/abs/2302.14688v1)|null|
 |**2023-02-28**|**Global Proxy-based Hard Mining for Visual Place Recognition**|Amar Ali-bey et.al.|[2302.14217v1](http://arxiv.org/abs/2302.14217v1)|**[link](https://github.com/amaralibey/gpm)**|
 |**2023-02-27**|**Efficient Informed Proposals for Discrete Distributions via Newton's Series Approximation**|Yue Xiang et.al.|[2302.13929v1](http://arxiv.org/abs/2302.13929v1)|**[link](https://github.com/dongyaozhu/newton-proposal-for-discrete-sampling)**|
@@ -1850,12 +1850,12 @@ layout: default
 |**2023-11-16**|**Reconstructing Continuous Light Field From Single Coded Image**|Yuya Ishikawa et.al.|[2311.09646v1](http://arxiv.org/abs/2311.09646v1)|null|
 |**2023-11-15**|**Single-Image 3D Human Digitization with Shape-Guided Diffusion**|Badour AlBahar et.al.|[2311.09221v1](http://arxiv.org/abs/2311.09221v1)|null|
 |**2023-11-15**|**DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model**|Yinghao Xu et.al.|[2311.09217v1](http://arxiv.org/abs/2311.09217v1)|null|
-|**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077v1](http://arxiv.org/abs/2311.09077v1)|null|
+|**2023-11-15**|**Spiking NeRF: Representing the Real-World Geometry by a Discontinuous Representation**|Zhanfeng Liao et.al.|[2311.09077v1](http://arxiv.org/abs/2311.09077v1)|**[link](https://github.com/liaozhanfeng/spiking-nerf)**|
 |**2023-11-13**|**$L_0$-Sampler: An $L_{0}$ Model Guided Volume Sampling for NeRF**|Liangchen Li et.al.|[2311.07044v1](http://arxiv.org/abs/2311.07044v1)|null|
 |**2023-11-11**|**Aria-NeRF: Multimodal Egocentric View Synthesis**|Jiankai Sun et.al.|[2311.06455v1](http://arxiv.org/abs/2311.06455v1)|null|
 |**2023-11-10**|**Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model**|Jiahao Li et.al.|[2311.06214v1](http://arxiv.org/abs/2311.06214v1)|null|
 |**2023-11-10**|**A Neural Height-Map Approach for the Binocular Photometric Stereo Problem**|Fotios Logothetis et.al.|[2311.05958v1](http://arxiv.org/abs/2311.05958v1)|null|
-|**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521v1](http://arxiv.org/abs/2311.05521v1)|null|
+|**2023-11-09**|**BakedAvatar: Baking Neural Fields for Real-Time Head Avatar Synthesis**|Hao-Bin Duan et.al.|[2311.05521v1](http://arxiv.org/abs/2311.05521v1)|**[link](https://github.com/buaavrcg/BakedAvatar)**|
 |**2023-11-09**|**Control3D: Towards Controllable Text-to-3D Generation**|Yang Chen et.al.|[2311.05461v1](http://arxiv.org/abs/2311.05461v1)|null|
 |**2023-11-08**|**LRM: Large Reconstruction Model for Single Image to 3D**|Yicong Hong et.al.|[2311.04400v1](http://arxiv.org/abs/2311.04400v1)|null|
 |**2023-11-07**|**ADFactory: Automated Data Factory for Optical Flow Tasks**|Han Ling et.al.|[2311.04246v1](http://arxiv.org/abs/2311.04246v1)|null|
