@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-07**|**Online and Certifiably Correct Visual Odometry and Mapping**|Devansh R Agrawal et.al.|[2402.05254v1](http://arxiv.org/abs/2402.05254v1)|null|
 |**2024-02-06**|**YOLOPoint Joint Keypoint and Object Detection**|Anton Backhaus et.al.|[2402.03989v1](http://arxiv.org/abs/2402.03989v1)|null|
 |**2024-01-21**|**BA-LINS: A Frame-to-Frame Bundle Adjustment for LiDAR-Inertial Navigation**|Hailiang Tang et.al.|[2401.11491v1](http://arxiv.org/abs/2401.11491v1)|null|
 |**2024-01-19**|**Motion Consistency Loss for Monocular Visual Odometry with Attention-Based Deep Learning**|André O. Françani et.al.|[2401.10857v1](http://arxiv.org/abs/2401.10857v1)|null|
