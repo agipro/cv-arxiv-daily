@@ -524,6 +524,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-18**|**A Robust Error-Resistant View Selection Method for 3D Reconstruction**|Shaojie Zhang et.al.|[2402.11431v1](http://arxiv.org/abs/2402.11431v1)|null|
+|**2024-02-17**|**Dense Matchers for Dense Tracking**|Tomáš Jelínek et.al.|[2402.11287v1](http://arxiv.org/abs/2402.11287v1)|null|
 |**2024-01-31**|**Local Feature Matching Using Deep Learning: A Survey**|Shibiao Xu et.al.|[2401.17592v1](http://arxiv.org/abs/2401.17592v1)|null|
 |**2024-01-22**|**HG3-NeRF: Hierarchical Geometric, Semantic, and Photometric Guided Neural Radiance Fields for Sparse View Inputs**|Zelin Gao et.al.|[2401.11711v1](http://arxiv.org/abs/2401.11711v1)|null|
 |**2024-01-19**|**SCENES: Subpixel Correspondence Estimation With Epipolar Supervision**|Dominik A. Kloepfer et.al.|[2401.10886v1](http://arxiv.org/abs/2401.10886v1)|null|
@@ -1352,7 +1354,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-15**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724v1](http://arxiv.org/abs/2402.09724v1)|null|
+|**2024-02-18**|**Region Feature Descriptor Adapted to High Affine Transformations**|Shaojie Zhang et.al.|[2402.09724v2](http://arxiv.org/abs/2402.09724v2)|null|
 |**2024-01-29**|**Reconstructing Close Human Interactions from Multiple Views**|Qing Shuai et.al.|[2401.16173v1](http://arxiv.org/abs/2401.16173v1)|**[link](https://github.com/zju3dv/closemocap)**|
 |**2024-01-17**|**To deform or not: treatment-aware longitudinal registration for breast DCE-MRI during neoadjuvant chemotherapy via unsupervised keypoints detection**|Luyi Han et.al.|[2401.09336v1](http://arxiv.org/abs/2401.09336v1)|**[link](https://github.com/fiy2w/treatment-aware-longitudinal-registration)**|
 |**2024-01-08**|**Flowmind2Digital: The First Comprehensive Flowmind Recognition and Conversion Approach**|Huanyu Liu et.al.|[2401.03742v1](http://arxiv.org/abs/2401.03742v1)|null|
@@ -1562,6 +1564,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-16**|**GIM: Learning Generalizable Image Matcher From Internet Videos**|Xuelun Shen et.al.|[2402.11095v1](http://arxiv.org/abs/2402.11095v1)|null|
 |**2024-02-13**|**Are Semi-Dense Detector-Free Methods Good at Matching Local Features?**|Matthieu Vilain et.al.|[2402.08671v1](http://arxiv.org/abs/2402.08671v1)|null|
 |**2024-02-13**|**Learning to Produce Semi-dense Correspondences for Visual Localization**|Khang Truong Giang et.al.|[2402.08359v1](http://arxiv.org/abs/2402.08359v1)|**[link](https://github.com/truongkhang/deviloc)**|
 |**2024-01-24**|**Linear Relative Pose Estimation Founded on Pose-only Imaging Geometry**|Qi Cai et.al.|[2401.13357v1](http://arxiv.org/abs/2401.13357v1)|null|
@@ -1749,6 +1752,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-19**|**Binary Opacity Grids: Capturing Fine Geometric Detail for Mesh-Based View Synthesis**|Christian Reiser et.al.|[2402.12377v1](http://arxiv.org/abs/2402.12377v1)|null|
+|**2024-02-19**|**Colorizing Monochromatic Radiance Fields**|Yean Cheng et.al.|[2402.12184v1](http://arxiv.org/abs/2402.12184v1)|null|
+|**2024-02-17**|**Semantically-aware Neural Radiance Fields for Visual Scene Understanding: A Comprehensive Review**|Thang-Anh-Quan Nguyen et.al.|[2402.11141v1](http://arxiv.org/abs/2402.11141v1)|null|
 |**2024-02-15**|**Evaluating NeRFs for 3D Plant Geometry Reconstruction in Field Conditions**|Muhammad Arbab Arshad et.al.|[2402.10344v1](http://arxiv.org/abs/2402.10344v1)|null|
 |**2024-02-14**|**PC-NeRF: Parent-Child Neural Radiance Fields Using Sparse LiDAR Frames in Autonomous Driving Environments**|Xiuzhong Hu et.al.|[2402.09325v1](http://arxiv.org/abs/2402.09325v1)|**[link](https://github.com/biter0088/pc-nerf)**|
 |**2024-02-13**|**Preconditioners for the Stochastic Training of Implicit Neural Representations**|Shin-Fang Chng et.al.|[2402.08784v1](http://arxiv.org/abs/2402.08784v1)|null|
