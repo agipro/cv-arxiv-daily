@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v1](http://arxiv.org/abs/2410.15392v1)|null|
 |**2024-10-18**|**Graph Optimality-Aware Stochastic LiDAR Bundle Adjustment with Progressive Spatial Smoothing**|Jianping Li et.al.|[2410.14565v1](http://arxiv.org/abs/2410.14565v1)|null|
 |**2024-10-17**|**Hybrid bundle-adjusting 3D Gaussians for view consistent rendering with pose optimization**|Yanan Guo et.al.|[2410.13280v1](http://arxiv.org/abs/2410.13280v1)|**[link](https://github.com/bistu3dv/hybridba)**|
 |**2024-10-12**|**ESVO2: Direct Visual-Inertial Odometry with Stereo Event Cameras**|Junkai Niu et.al.|[2410.09374v1](http://arxiv.org/abs/2410.09374v1)|**[link](https://github.com/nail-hnu/esvo2)**|
@@ -624,6 +625,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**Neural Active Structure-from-Motion in Dark and Textureless Environment**|Kazuto Ichimaru et.al.|[2410.15378v1](http://arxiv.org/abs/2410.15378v1)|null|
 |**2024-10-16**|**Gravity-aligned Rotation Averaging with Circular Regression**|Linfei Pan et.al.|[2410.12763v1](http://arxiv.org/abs/2410.12763v1)|**[link](https://github.com/colmap/glomap)**|
 |**2024-10-15**|**SplatPose+: Real-time Image-Based Pose-Agnostic 3D Anomaly Detection**|Yizhe Liu et.al.|[2410.12080v1](http://arxiv.org/abs/2410.12080v1)|null|
 |**2024-10-15**|**LoGS: Visual Localization via Gaussian Splatting with Fewer Training Images**|Yuzhou Cheng et.al.|[2410.11505v1](http://arxiv.org/abs/2410.11505v1)|null|
@@ -873,6 +875,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-20**|**GSSF: Generalized Structural Sparse Function for Deep Cross-modal Metric Learning**|Haiwen Diao et.al.|[2410.15266v1](http://arxiv.org/abs/2410.15266v1)|**[link](https://github.com/paranioar/gssf)**|
+|**2024-10-19**|**Visual Navigation of Digital Libraries: Retrieval and Classification of Images in the National Library of Norway's Digitised Book Collection**|Marie Roald et.al.|[2410.14969v1](http://arxiv.org/abs/2410.14969v1)|null|
 |**2024-10-16**|**Development of Image Collection Method Using YOLO and Siamese Network**|Chan Young Shin et.al.|[2410.12561v1](http://arxiv.org/abs/2410.12561v1)|null|
 |**2024-10-16**|**LoD-Loc: Aerial Visual Localization using LoD 3D Map with Neural Wireframe Alignment**|Juelin Zhu et.al.|[2410.12269v1](http://arxiv.org/abs/2410.12269v1)|null|
 |**2024-10-16**|**Leveraging Spatial Attention and Edge Context for Optimized Feature Selection in Visual Localization**|Nanda Febri Istighfarin et.al.|[2410.12240v1](http://arxiv.org/abs/2410.12240v1)|null|
@@ -1813,6 +1817,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-04**|**Self-Supervised Keypoint Detection with Distilled Depth Keypoint Representation**|Aman Anand et.al.|[2410.14700v1](http://arxiv.org/abs/2410.14700v1)|null|
 |**2024-10-18**|**Sim2real Cattle Joint Estimation in 3D point clouds**|Okour Mohammad et.al.|[2410.14419v1](http://arxiv.org/abs/2410.14419v1)|null|
 |**2024-10-16**|**PND-Net: Plant Nutrition Deficiency and Disease Classification using Graph Convolutional Network**|Asish Bera et.al.|[2410.12742v1](http://arxiv.org/abs/2410.12742v1)|null|
 |**2024-10-16**|**RAFA-Net: Region Attention Network For Food Items And Agricultural Stress Recognition**|Asish Bera et.al.|[2410.12718v1](http://arxiv.org/abs/2410.12718v1)|null|
@@ -2314,6 +2319,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**FrugalNeRF: Fast Convergence for Few-shot Novel View Synthesis without Learned Priors**|Chin-Yang Lin et.al.|[2410.16271v1](http://arxiv.org/abs/2410.16271v1)|null|
+|**2024-10-20**|**EF-3DGS: Event-Aided Free-Trajectory 3D Gaussian Splatting**|Bohao Liao et.al.|[2410.15392v1](http://arxiv.org/abs/2410.15392v1)|null|
+|**2024-10-19**|**Neural Radiance Field Image Refinement through End-to-End Sampling Point Optimization**|Kazuhiro Ohta et.al.|[2410.14958v1](http://arxiv.org/abs/2410.14958v1)|null|
 |**2024-10-18**|**Learning autonomous driving from aerial imagery**|Varun Murali et.al.|[2410.14177v1](http://arxiv.org/abs/2410.14177v1)|null|
 |**2024-10-18**|**DaRePlane: Direction-aware Representations for Dynamic Scene Reconstruction**|Ange Lou et.al.|[2410.14169v1](http://arxiv.org/abs/2410.14169v1)|null|
 |**2024-10-17**|**DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering**|Jiahao Lu et.al.|[2410.13607v1](http://arxiv.org/abs/2410.13607v1)|null|
