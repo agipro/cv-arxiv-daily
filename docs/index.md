@@ -25,6 +25,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**DEIO: Deep Event Inertial Odometry**|Weipeng Guan et.al.|[2411.03928v1](http://arxiv.org/abs/2411.03928v1)|null|
+|**2024-11-06**|**GS2Pose: Tow-stage 6D Object Pose Estimation Guided by Gaussian Splatting**|Jilan Mei et.al.|[2411.03807v1](http://arxiv.org/abs/2411.03807v1)|null|
 |**2024-10-30**|**LGU-SLAM: Learnable Gaussian Uncertainty Matching with Deformable Correlation Sampling for Deep Visual SLAM**|Yucheng Huang et.al.|[2410.23231v1](http://arxiv.org/abs/2410.23231v1)|**[link](https://github.com/uestc-nnlab/lgu-slam)**|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
 |**2024-10-09**|**Very High-Resolution Bridge Deformation Monitoring Using UAV-based Photogrammetry**|Mehdi Maboudi et.al.|[2410.18984v1](http://arxiv.org/abs/2410.18984v1)|null|
@@ -2353,6 +2355,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-06**|**Structure Consistent Gaussian Splatting with Matching Prior for Few-shot Novel View Synthesis**|Rui Peng et.al.|[2411.03637v1](http://arxiv.org/abs/2411.03637v1)|**[link](https://github.com/prstrive/scgaussian)**|
+|**2024-11-05**|**Enhancing Exploratory Capability of Visual Navigation Using Uncertainty of Implicit Scene Representation**|Yichen Wang et.al.|[2411.03487v1](http://arxiv.org/abs/2411.03487v1)|null|
 |**2024-11-05**|**CAD-NeRF: Learning NeRFs from Uncalibrated Few-view Images by CAD Model Retrieval**|Xin Wen et.al.|[2411.02979v1](http://arxiv.org/abs/2411.02979v1)|null|
 |**2024-11-05**|**Exploring Seasonal Variability in the Context of Neural Radiance Fields for 3D Reconstruction on Satellite Imagery**|Liv Kåreborn et.al.|[2411.02972v1](http://arxiv.org/abs/2411.02972v1)|null|
 |**2024-11-05**|**Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation**|Xavier Timoneda et.al.|[2411.02969v1](http://arxiv.org/abs/2411.02969v1)|null|
