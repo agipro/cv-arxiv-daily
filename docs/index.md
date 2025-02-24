@@ -713,7 +713,7 @@ layout: default
 |**2024-11-13**|**Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model**|Yutao Shen et.al.|[2411.08453v1](http://arxiv.org/abs/2411.08453v1)|null|
 |**2024-11-08**|**From Transparent to Opaque: Rethinking Neural Implicit Surfaces with $α$ -NeuS**|Haoran Zhang et.al.|[2411.05362v1](http://arxiv.org/abs/2411.05362v1)|**[link](https://github.com/728388808/alpha-neus)**|
 |**2024-10-29**|**LiVisSfM: Accurate and Robust Structure-from-Motion with LiDAR and Visual Cues**|Hanqing Jiang et.al.|[2410.22213v1](http://arxiv.org/abs/2410.22213v1)|null|
-|**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|null|
+|**2024-10-25**|**A Robust and Efficient Visual-Inertial Initialization with Probabilistic Normal Epipolar Constraint**|Changshi Mu et.al.|[2410.19473v1](http://arxiv.org/abs/2410.19473v1)|**[link](https://github.com/mucs714/drt-pnec)**|
 |**2024-10-30**|**Large Spatial Model: End-to-end Unposed Images to Semantic 3D**|Zhiwen Fan et.al.|[2410.18956v2](http://arxiv.org/abs/2410.18956v2)|**[link](https://github.com/NVlabs/LSM)**|
 |**2024-10-23**|**PLGS: Robust Panoptic Lifting with 3D Gaussian Splatting**|Yu Wang et.al.|[2410.17505v1](http://arxiv.org/abs/2410.17505v1)|null|
 |**2024-10-20**|**Neural Active Structure-from-Motion in Dark and Textureless Environment**|Kazuto Ichimaru et.al.|[2410.15378v1](http://arxiv.org/abs/2410.15378v1)|null|
@@ -2900,7 +2900,7 @@ layout: default
 |**2024-07-08**|**GeoNLF: Geometry guided Pose-Free Neural LiDAR Fields**|Weiyi Xue et.al.|[2407.05597v1](http://arxiv.org/abs/2407.05597v1)|null|
 |**2024-07-08**|**Dynamic Neural Radiance Field From Defocused Monocular Video**|Xianrui Luo et.al.|[2407.05586v1](http://arxiv.org/abs/2407.05586v1)|null|
 |**2024-07-07**|**GaussReg: Fast 3D Registration with Gaussian Splatting**|Jiahao Chang et.al.|[2407.05254v1](http://arxiv.org/abs/2407.05254v1)|null|
-|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023v1](http://arxiv.org/abs/2407.05023v1)|null|
+|**2024-07-06**|**SurgicalGaussian: Deformable 3D Gaussians for High-Fidelity Surgical Scene Reconstruction**|Weixing Xie et.al.|[2407.05023v1](http://arxiv.org/abs/2407.05023v1)|**[link](https://github.com/xwx0924/SurgicalGaussian)**|
 |**2024-07-04**|**CRiM-GS: Continuous Rigid Motion-Aware Gaussian Splatting from Motion Blur Images**|Junghe Lee et.al.|[2407.03923v1](http://arxiv.org/abs/2407.03923v1)|null|
 |**2024-07-02**|**MomentsNeRF: Leveraging Orthogonal Moments for Few-Shot Neural Rendering**|Ahmad AlMughrabi et.al.|[2407.02668v1](http://arxiv.org/abs/2407.02668v1)|null|
 |**2024-07-03**|**BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream**|Wenpu Li et.al.|[2407.02174v2](http://arxiv.org/abs/2407.02174v2)|**[link](https://github.com/WU-CVGL/BeNeRF)**|
