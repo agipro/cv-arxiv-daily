@@ -25,6 +25,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**NF-SLAM: Effective, Normalizing Flow-supported Neural Field representations for object-level visual SLAM in automotive applications**|Li Cui et.al.|[2503.11199v1](http://arxiv.org/abs/2503.11199v1)|null|
 |**2025-03-07**|**THE-SEAN: A Heart Rate Variation-Inspired Temporally High-Order Event-Based Visual Odometry with Self-Supervised Spiking Event Accumulation Networks**|Chaoran Xiong et.al.|[2503.05112v1](http://arxiv.org/abs/2503.05112v1)|null|
 |**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944v1](http://arxiv.org/abs/2503.04944v1)|null|
 |**2025-03-06**|**Geometry-Constrained Monocular Scale Estimation Using Semantic Segmentation for Dynamic Scenes**|Hui Zhang et.al.|[2503.04235v1](http://arxiv.org/abs/2503.04235v1)|null|
@@ -988,6 +989,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Exploring the best way for UAV visual localization under Low-altitude Multi-view Observation Condition: a Benchmark**|Yibin Ye et.al.|[2503.10692v1](http://arxiv.org/abs/2503.10692v1)|null|
 |**2025-03-13**|**ImageScope: Unifying Language-Guided Image Retrieval via Large Multimodal Model Collective Reasoning**|Pengfei Luo et.al.|[2503.10166v1](http://arxiv.org/abs/2503.10166v1)|null|
 |**2025-03-12**|**Revisiting Medical Image Retrieval via Knowledge Consolidation**|Yang Nan et.al.|[2503.09370v1](http://arxiv.org/abs/2503.09370v1)|null|
 |**2025-03-11**|**CQVPR: Landmark-aware Contextual Queries for Visual Place Recognition**|Dongyue Li et.al.|[2503.08170v1](http://arxiv.org/abs/2503.08170v1)|null|
@@ -2369,6 +2371,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**Refining Image Edge Detection via Linear Canonical Riesz Transforms**|Shuhui Yang et.al.|[2503.11148v1](http://arxiv.org/abs/2503.11148v1)|null|
 |**2025-03-13**|**Speedy MASt3R**|Jingxing Li et.al.|[2503.10017v1](http://arxiv.org/abs/2503.10017v1)|null|
 |**2025-03-06**|**Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis**|Xingcan Hu et.al.|[2503.04205v1](http://arxiv.org/abs/2503.04205v1)|null|
 |**2025-03-07**|**Diff-Reg v2: Diffusion-Based Matching Matrix Estimation for Image Matching and 3D Registration**|Qianliang Wu et.al.|[2503.04127v2](http://arxiv.org/abs/2503.04127v2)|null|
