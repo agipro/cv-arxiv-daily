@@ -714,6 +714,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent**|Yaroslava Lochman et.al.|[2506.01940v1](http://arxiv.org/abs/2506.01940v1)|null|
 |**2025-05-29**|**Rooms from Motion: Un-posed Indoor 3D Object Detection as Localization and Mapping**|Justin Lazarow et.al.|[2505.23756v1](http://arxiv.org/abs/2505.23756v1)|null|
 |**2025-05-28**|**Fast Feature Matching of UAV Images via Matrix Band Reduction-based GPU Data Schedule**|San Jiang et.al.|[2505.22089v1](http://arxiv.org/abs/2505.22089v1)|null|
 |**2025-05-27**|**Intern-GS: Vision Model Guided Sparse-View 3D Gaussian Splatting**|Xiangyu Sun et.al.|[2505.20729v1](http://arxiv.org/abs/2505.20729v1)|null|
@@ -1058,6 +1059,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-02**|**Entity Image and Mixed-Modal Image Retrieval Datasets**|Cristian-Ioan Blaga et.al.|[2506.02291v1](http://arxiv.org/abs/2506.02291v1)|null|
+|**2025-06-01**|**Quantization-based Bounds on the Wasserstein Metric**|Jonathan Bobrutsky et.al.|[2506.00976v1](http://arxiv.org/abs/2506.00976v1)|null|
 |**2025-05-30**|**SORCE: Small Object Retrieval in Complex Environments**|Chunxu Liu et.al.|[2505.24441v1](http://arxiv.org/abs/2505.24441v1)|null|
 |**2025-05-29**|**Sketch Down the FLOPs: Towards Efficient Networks for Human Sketch**|Aneeshan Sain et.al.|[2505.23763v1](http://arxiv.org/abs/2505.23763v1)|null|
 |**2025-05-28**|**4DTAM: Non-Rigid Tracking and Mapping via Dynamic Surface Gaussians**|Hidenobu Matsuki et.al.|[2505.22859v1](http://arxiv.org/abs/2505.22859v1)|null|
@@ -2848,6 +2851,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**Hi-Dyna Graph: Hierarchical Dynamic Scene Graph for Robotic Autonomy in Human-Centric Environments**|Jiawei Hou et.al.|[2506.00083v1](http://arxiv.org/abs/2506.00083v1)|null|
 |**2025-05-29**|**PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views**|Mohamed Rayan Barhdadi et.al.|[2505.23481v1](http://arxiv.org/abs/2505.23481v1)|**[link](https://github.com/anonymous-researcher-01/physicsnerf)**|
 |**2025-05-29**|**LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering**|Jonas Kulhanek et.al.|[2505.23158v1](http://arxiv.org/abs/2505.23158v1)|null|
 |**2025-05-28**|**Can NeRFs See without Cameras?**|Chaitanya Amballa et.al.|[2505.22441v1](http://arxiv.org/abs/2505.22441v1)|null|
