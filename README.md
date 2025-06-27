@@ -21,6 +21,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077v1](http://arxiv.org/abs/2506.21077v1)|null|
 |**2025-06-18**|**Correspondence-Free Multiview Point Cloud Registration via Depth-Guided Joint Optimisation**|Yiran Zhou et.al.|[2506.18922v1](http://arxiv.org/abs/2506.18922v1)|null|
 |**2025-06-24**|**Multimodal Fusion SLAM with Fourier Attention**|Youjie Zhou et.al.|[2506.18204v2](http://arxiv.org/abs/2506.18204v2)|null|
 |**2025-06-10**|**UFM: A Simple Path towards Unified Dense Correspondence with Flow**|Yuchen Zhang et.al.|[2506.09278v1](http://arxiv.org/abs/2506.09278v1)|null|
@@ -722,6 +723,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Wild refitting for black box prediction**|Martin J. Wainwright et.al.|[2506.21460v1](http://arxiv.org/abs/2506.21460v1)|null|
 |**2025-06-24**|**Experimental Assessment of Neural 3D Reconstruction for Small UAV-based Applications**|Genís Castillo Gómez-Raya et.al.|[2506.19491v1](http://arxiv.org/abs/2506.19491v1)|null|
 |**2025-06-23**|**ViDAR: Video Diffusion-Aware 4D Reconstruction From Monocular Inputs**|Michal Nazarczuk et.al.|[2506.18792v1](http://arxiv.org/abs/2506.18792v1)|null|
 |**2025-06-06**|**SurGSplat: Progressive Geometry-Constrained Gaussian Splatting for Surgical Scene Reconstruction**|Yuchao Zheng et.al.|[2506.05935v1](http://arxiv.org/abs/2506.05935v1)|null|
@@ -1074,6 +1076,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**OracleFusion: Assisting the Decipherment of Oracle Bone Script with Structurally Constrained Semantic Typography**|Caoshuo Li et.al.|[2506.21101v1](http://arxiv.org/abs/2506.21101v1)|null|
 |**2025-06-25**|**Visualizing intercalation effects in 2D materials using AFM based techniques**|Karmen Kapustić et.al.|[2506.20467v1](http://arxiv.org/abs/2506.20467v1)|null|
 |**2025-06-25**|**On the Burstiness of Faces in Set**|Jiong Wang et.al.|[2506.20312v1](http://arxiv.org/abs/2506.20312v1)|null|
 |**2025-06-24**|**jina-embeddings-v4: Universal Embeddings for Multimodal Multilingual Retrieval**|Michael Günther et.al.|[2506.18902v2](http://arxiv.org/abs/2506.18902v2)|null|
@@ -2902,6 +2905,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**PanSt3R: Multi-view Consistent Panoptic Segmentation**|Lojze Zust et.al.|[2506.21348v1](http://arxiv.org/abs/2506.21348v1)|null|
 |**2025-06-25**|**Joint attitude estimation and 3D neural reconstruction of non-cooperative space objects**|Clément Forray et.al.|[2506.20638v1](http://arxiv.org/abs/2506.20638v1)|null|
 |**2025-06-24**|**NeRF-based CBCT Reconstruction needs Normalization and Initialization**|Zhuowei Xu et.al.|[2506.19742v1](http://arxiv.org/abs/2506.19742v1)|null|
 |**2025-06-25**|**Self-Supervised Multimodal NeRF for Autonomous Driving**|Gaurav Sharma et.al.|[2506.19615v2](http://arxiv.org/abs/2506.19615v2)|null|
